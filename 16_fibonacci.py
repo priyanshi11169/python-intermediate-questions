@@ -16,4 +16,4 @@ def fibonacci(n):
     a = b
     b = c
     
-fibonacci(4)
+fibonacci(8)
